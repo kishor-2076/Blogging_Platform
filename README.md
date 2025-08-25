@@ -1,2 +1,13 @@
-# Blogging_Platform
-This is basically Internship project from Zidio Development company. The  project is basically based on MERN Stack Technology. Develop by Group 16 in collaboration of all these members: Kishor Kumar, Ahna Banarjee (Group Leader), Abha Sharma, Hema Varshini, Sabitha and Sayem.
+# Blogging Platform  
+
+This is an **internship project under Zidio Development Company**, built using the **MERN Stack** (MongoDB, Express.js, React, Node.js).  
+
+It is being collaboratively developed by **Group 16**, showcasing teamwork, innovation, and hands-on application of full-stack development skills.  
+
+## 👥 Team Members  
+- **Ahana Banerjee** *(Group Leader)*  
+- Kishor Kumar  
+- Abha Sharma  
+- Hema Varshini  
+- Sabitha  
+- Sayem  
